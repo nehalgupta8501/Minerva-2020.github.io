@@ -226,9 +226,10 @@ h2{
 }
 
 @media screen and (max-width: 800px) {
-  .leftcolumn, .rightcolumn {
+   .card{
     width: 100%;
-    padding: 0;
+    padding: 10px;
+    margin: 5px;
   }
 }
 
