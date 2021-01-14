@@ -423,3 +423,10 @@ h3 {
     font-size: 1rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+@media screen and (max-width: 800px){
+    .about{
+        width: 100%;
+        padding: 8px;
+    }
+}
